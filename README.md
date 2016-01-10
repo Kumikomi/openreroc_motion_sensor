@@ -45,7 +45,7 @@ Requirements
 - [PING))) Ultrasonic Distance Sensor | 28015 | Parallax Inc](https://www.parallax.com/product/28015)
 
 <img src="http://aquila.is.utsunomiya-u.ac.jp/~kazushi/sonic_sensor_img.jpeg" alt="" height="150" />
-![sonic_sensor](http://aquila.is.utsunomiya-u.ac.jp/~kazushi/sonic_sensor_img.jpeg)
+
 How to build software
 =======
 Please replace **catkin_ws** to your work space name.
